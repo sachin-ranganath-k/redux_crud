@@ -1,0 +1,21 @@
+{
+    "users": [
+      {
+        "namee": "Sachin",
+        "username": "sachink",
+        "email": "sachin@gmail.com",
+        "phone": "8974569877",
+        "website": "",
+        "id": 1
+      },
+
+      {
+        "namee": "Ranganath",
+        "username": "ranganathk",
+        "email": "ranganath@gmail.com",
+        "phone": "9743101575",
+        "website": "",
+        "id": 2
+      }
+    ]
+  }
